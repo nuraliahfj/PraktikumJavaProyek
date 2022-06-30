@@ -102,7 +102,7 @@ public class KabupatenViewFrame extends JFrame {
                 JOptionPane.showConfirmDialog(null, "Pilih data dulu");
                 return;
             }
-            int pilihan = JOptionPane.showConfirmDialog(null. "Yakin mau hapus?", "Konfirmasi Hapus", JOptionPane.YES_NO_OPTION);
+            int pilihan = JOptionPane.showConfirmDialog(null, "Yakin mau hapus?", "Konfirmasi Hapus", JOptionPane.YES_NO_OPTION);
             if (pilihan == 0){
                 TableModel tm = viewTable.getModel();
                 int id = Integer.parseInt(tm.getValueAt(barisTerpilih,0).toString());
@@ -116,6 +116,12 @@ public class KabupatenViewFrame extends JFrame {
                     throw new RuntimeException(ex);
                 }
             }
+        });
+
+
+        tambahButton.addActionListener(e ->{
+            KabupatenInputFrame inputFrame = new KabupatenInputFrame();
+            inputFrame.setVisible(true);
         });
     }
 
