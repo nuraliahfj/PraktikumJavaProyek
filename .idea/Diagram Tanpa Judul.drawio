@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T06:26:00.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="G1Rk4mz9ZF1vZ9i7j51X" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-19T06:26:10.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CCQVXK5ZjBGzyLoKG757" version="20.5.3" type="github">
   <diagram id="VXs8NTKxrGi_QNpOC6y9" name="Halaman-1">
     <mxGraphModel dx="1730" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,24 +149,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-70" value="BAGIAN KEUANGAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="850" width="100" height="50" as="geometry" />
+          <mxGeometry x="415" y="785" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-71" value="NAMA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393.75" y="770" width="92.5" height="50" as="geometry" />
+          <mxGeometry x="396.25" y="705" width="92.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-72" value="KD_ADMIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="770" width="92.5" height="50" as="geometry" />
+          <mxGeometry x="292.5" y="705" width="92.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="R0c0Dop_Krn-mjsYTwvE-70" target="R0c0Dop_Krn-mjsYTwvE-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="388.75" y="870" as="sourcePoint" />
-            <mxPoint x="518.75" y="1000" as="targetPoint" />
+            <mxPoint x="391.25" y="805" as="sourcePoint" />
+            <mxPoint x="521.25" y="935" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="R0c0Dop_Krn-mjsYTwvE-71" source="R0c0Dop_Krn-mjsYTwvE-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="388.75" y="870" as="sourcePoint" />
-            <mxPoint x="350" y="830" as="targetPoint" />
+            <mxPoint x="391.25" y="805" as="sourcePoint" />
+            <mxPoint x="352.5" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
