@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T06:03:36.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BcgaDdzmstOumCCvKZeP" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-19T06:05:36.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2Hzg2eQ_XEQvA1p1w39e" version="20.5.3" type="github">
   <diagram id="VXs8NTKxrGi_QNpOC6y9" name="Halaman-1">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-10" value="petugas cek&lt;br&gt;stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="R0c0Dop_Krn-mjsYTwvE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R0c0Dop_Krn-mjsYTwvE-11" target="R0c0Dop_Krn-mjsYTwvE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-11" value="TRANSAKSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,6 +59,21 @@
         </mxCell>
         <mxCell id="R0c0Dop_Krn-mjsYTwvE-19" value="transaksi dengan&lt;br&gt;resep berhasil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R0c0Dop_Krn-mjsYTwvE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R0c0Dop_Krn-mjsYTwvE-20" target="R0c0Dop_Krn-mjsYTwvE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0c0Dop_Krn-mjsYTwvE-20" value="BAGIAN PENGADAAN BARANG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R0c0Dop_Krn-mjsYTwvE-22" value="cek stok barang&lt;br&gt;barang (-) reorder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R0c0Dop_Krn-mjsYTwvE-23" value="BAGIAN KEUANGAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R0c0Dop_Krn-mjsYTwvE-25" value="report /hari&lt;br&gt;akan di evaluasi&lt;br&gt;bagian keuangan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
