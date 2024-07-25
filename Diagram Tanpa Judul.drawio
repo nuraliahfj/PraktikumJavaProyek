@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T14:06:10.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vfWetYrNLU0iIDSitUAH" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-25T08:37:18.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OMVT5jdoOthUYET3ay_3" version="24.6.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3420" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,62 @@
         </mxCell>
         <mxCell id="FWSikd3tUkdPII95rwSn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FWSikd3tUkdPII95rwSn-12" target="FWSikd3tUkdPII95rwSn-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-2" id="dUOHfvFi9exihcx9av7b">
+    <mxGraphModel dx="2922" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="y2fUdFPT9dw7D0vP_nTu-0" />
+        <mxCell id="y2fUdFPT9dw7D0vP_nTu-1" parent="y2fUdFPT9dw7D0vP_nTu-0" />
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-0" value="admin" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="y2fUdFPT9dw7D0vP_nTu-1">
+          <mxGeometry x="40" y="40" width="160" height="190" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-1" value="username&#xa;  password&#xa;  nama&#xa;  jk&#xa;  tempat_lhr&#xa;  tgl_lhr&#xa;  agama&#xa;  alamat&#xa;  no_tlp&#xa;  nik&#xa;  posisi&#xa; &#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_0AoM2pDI_0ymwPvMDl8-0">
+          <mxGeometry y="26" width="160" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-2" value="kontrak" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="y2fUdFPT9dw7D0vP_nTu-1">
+          <mxGeometry x="240" y="70" width="160" height="190" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-3" value="nik&#xa;  soal1&#xa;  soal2&#xa;  soal3&#xa;  soal4&#xa;  soal5&#xa;  soal6&#xa;  masa_kerja&#xa;  mulai_kontrak&#xa;  akhir_kontrak&#xa;  status_karyawan" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_0AoM2pDI_0ymwPvMDl8-2">
+          <mxGeometry y="26" width="160" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-4" value="fisik" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="y2fUdFPT9dw7D0vP_nTu-1">
+          <mxGeometry x="410" y="50" width="160" height="120" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-5" value="id_pelamar&#xa;  jarak_lari&#xa;  jumlah_push_up&#xa;  jumlah_sit_up&#xa;  keterangan" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_0AoM2pDI_0ymwPvMDl8-4">
+          <mxGeometry y="26" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-6" value="ho&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="y2fUdFPT9dw7D0vP_nTu-1">
+          <mxGeometry x="440" y="210" width="160" height="210" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-7" value="id_head_office&#xa;  username&#xa;  password&#xa;  nama&#xa;  jk&#xa;  tempat_lhr&#xa;  tgl_lhr&#xa;  agama&#xa;  alamat&#xa;  no_tlp&#xa;  nik&#xa;  posisi" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_0AoM2pDI_0ymwPvMDl8-6">
+          <mxGeometry y="26" width="160" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-8" value="karyawan" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="y2fUdFPT9dw7D0vP_nTu-1">
+          <mxGeometry x="100" y="330" width="160" height="160" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-9" value="id_karyawan&#xa;  nik&#xa;  nama&#xa;  alamat&#xa;  posisi&#xa;  tanggal_awal_kontrak&#xa;  tanggal_akhir_kontrak&#xa;  status_karyawan" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_0AoM2pDI_0ymwPvMDl8-8">
+          <mxGeometry y="26" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-10" value="lowongan" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="y2fUdFPT9dw7D0vP_nTu-1">
+          <mxGeometry x="360" y="470" width="160" height="210" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0AoM2pDI_0ymwPvMDl8-11" value="id_lowongan&#xa;  posisi_pekerjaan&#xa;  lokasi_seleksi&#xa;  tgl_mulai&#xa;  tgl_selesai&#xa;  deskripsi_pekerjaan&#xa;  jurusan_akademik&#xa;  lokasi_pekerjaan&#xa;  nik&#xa;  lihat" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_0AoM2pDI_0ymwPvMDl8-10">
+          <mxGeometry y="26" width="160" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
